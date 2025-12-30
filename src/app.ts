@@ -11,7 +11,7 @@ const app = express();
 
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://resilio-marketing.vercel.app/'
+  'https://resilio-marketing.vercel.app'
 ];
 
 
